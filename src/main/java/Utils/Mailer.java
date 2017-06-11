@@ -8,6 +8,7 @@ public class Mailer {
 
   private final String MAIL = "admin@aaa.dk"; //mail address to send warnings (hardcoded in this ex)
   
+  
   /**
    * Call this method to simulate sending a mail
    * @param user The user to report about
